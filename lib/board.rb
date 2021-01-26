@@ -8,3 +8,6 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 board
 ruby board
 board = get_variable_from_file
+puts board
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+puts board
